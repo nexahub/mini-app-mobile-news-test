@@ -1,0 +1,88 @@
+<view class="articlesContainer">
+  <view class="top">
+    <view class="topChildImage" />
+    <text class="topChildText">Edition du 24/05/2024</text>
+  </view>
+
+  <view class="articles">
+
+    <view bindtap="navigateToArticleDetail" class="article">
+      <view class="articleImage" />
+      <view class="articleDetailsContainer">
+        <view class="articleTypes">
+          <text class="type">Economie</text>
+          <text class="newspaperType">Cameroun Tribune</text>
+        </view>
+        <text class="articleRecap">Lion indomptables</text>
+        <text class="articleDescription">Marc Brys militaire</text>
+      </view>
+    </view>
+    <view class="article">
+      <view class="articleImage" />
+      <view class="articleDetailsContainer">
+        <view class="articleTypes">
+          <text class="type">Economie</text>
+          <text class="newspaperType">Cameroun Tribune</text>
+        </view>
+        <text class="articleRecap">Lion indomptables</text>
+        <text class="articleDescription">Marc Brys militaire</text>
+      </view>
+    </view>
+    <view class="article">
+      <view class="articleImage" />
+      <view class="articleDetailsContainer">
+        <view class="articleTypes">
+          <text class="type">Economie</text>
+          <text class="newspaperType">Cameroun Tribune</text>
+        </view>
+        <text class="articleRecap">Lion indomptables</text>
+        <text class="articleDescription">Marc Brys militaire</text>
+      </view>
+    </view>
+    <view class="article">
+      <view class="articleImage" />
+      <view class="articleDetailsContainer">
+        <view class="articleTypes">
+          <text class="type">Economie</text>
+          <text class="newspaperType">Cameroun Tribune</text>
+        </view>
+        <text class="articleRecap">Lion indomptables</text>
+        <text class="articleDescription">Marc Brys militaire</text>
+      </view>
+    </view>
+    <view class="article">
+      <view class="articleImage" />
+      <view class="articleDetailsContainer">
+        <view class="articleTypes">
+          <text class="type">Economie</text>
+          <text class="newspaperType">Cameroun Tribune</text>
+        </view>
+        <text class="articleRecap">Lion indomptables</text>
+        <text class="articleDescription">Marc Brys militaire</text>
+      </view>
+    </view>
+    <view class="article">
+      <view class="articleImage" />
+      <view class="articleDetailsContainer">
+        <view class="articleTypes">
+          <text class="type">Economie</text>
+          <text class="newspaperType">Cameroun Tribune</text>
+        </view>
+        <text class="articleRecap">Lion indomptables</text>
+        <text class="articleDescription">Marc Brys militaire</text>
+      </view>
+    </view>
+    <view class="article">
+      <view class="articleImage" />
+      <view class="articleDetailsContainer">
+        <view class="articleTypes">
+          <text class="type">Economie</text>
+          <text class="newspaperType">Cameroun Tribune</text>
+        </view>
+        <text class="articleRecap">Lion indomptables</text>
+        <text class="articleDescription">Marc Brys militaire</text>
+      </view>
+    </view>
+
+  </view>
+</view>

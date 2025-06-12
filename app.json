@@ -1,0 +1,14 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/newspaper_articles/newspaper_articles",
+        "pages/article_detail/article_detail"
+    ],
+    "style": "v2",
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#f8f8f8",
+        "navigationBarTitleText": "Mobile News",
+        "navigationBarTextStyle": "black"
+    }
+}

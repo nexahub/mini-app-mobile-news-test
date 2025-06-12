@@ -1,0 +1,15 @@
+<view class="container">
+  <text class="subTitle">Cliquez pour ouvrir le journal de votre choix</text>
+  <view class="subTitleBar" />
+  <view class="newspapers">
+    <view bindtap="navigateToArticles" class="newspaper" />
+    <view bindtap="navigateToArticles" class="newspaper" />
+    <view bindtap="navigateToArticles" class="newspaper" />
+    <view bindtap="navigateToArticles" class="newspaper" />
+    <view bindtap="navigateToArticles" class="newspaper" />
+    <view bindtap="navigateToArticles" class="newspaper" />
+    <view bindtap="navigateToArticles" class="newspaper" />
+    <view bindtap="navigateToArticles" class="newspaper" />
+    <view bindtap="navigateToArticles" class="newspaper" />
+  </view>
+</view>

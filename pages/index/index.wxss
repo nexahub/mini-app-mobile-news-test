@@ -1,0 +1,27 @@
+.subTitle {
+  text-align: center;
+  font-size: 12px;
+  //font-weight: bold;
+}
+
+.subTitleBar {
+  margin-top: 10px;
+  height: 1.5px;
+  width: 200px;
+  background-color: #EDEDED;
+}
+
+.newspapers {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  padding: 16px;
+}
+
+.newspaper {
+  height: 130px;
+  width: 130px;
+  border-radius: 20px;
+  background-color: #CECECE;
+}
