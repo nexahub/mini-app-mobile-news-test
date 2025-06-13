@@ -1,0 +1,74 @@
+.container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-between;
+    padding: 0 14px 20px 14px;
+    box-sizing: border-box;
+    /* background-color: #f8f8f8; */
+}
+
+.title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.subTitle {
+  margin-top: 5px;
+  font-size: 12px;
+}
+
+.package {
+  width: 100%;
+  margin-top: 12px;
+  background-color: #fcfcfc;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1.5px solid;
+  border-color: #f3f3f3;
+}
+
+.packageLeadingRow {
+  display: flex;
+  align-items: center;
+  padding: 12px 14px;
+  width: 65%;
+}
+
+.packageRowLeadingText {
+  margin-left: 5px;
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  font-weight: bold;
+} 
+
+.packageTrailingContainer {
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  width: 35%;
+  background-color: #ff7900;
+  padding: 12px 14px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.packageTrailingContainerText1 {
+  display: flex;
+  align-items: center;
+  margin-right: 2px;
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.packageTrailingContainerText2 {
+  display: flex;
+  align-items: center;
+  font-size: 8px;
+  color: #ffffff;
+}

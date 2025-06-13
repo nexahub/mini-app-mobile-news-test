@@ -1,15 +1,8 @@
 <view class="container">
-  <text class="subTitle">Cliquez pour ouvrir le journal de votre choix</text>
-  <view class="subTitleBar" />
-  <view class="newspapers">
-    <view bindtap="navigateToArticles" class="newspaper" />
-    <view bindtap="navigateToArticles" class="newspaper" />
-    <view bindtap="navigateToArticles" class="newspaper" />
-    <view bindtap="navigateToArticles" class="newspaper" />
-    <view bindtap="navigateToArticles" class="newspaper" />
-    <view bindtap="navigateToArticles" class="newspaper" />
-    <view bindtap="navigateToArticles" class="newspaper" />
-    <view bindtap="navigateToArticles" class="newspaper" />
-    <view bindtap="navigateToArticles" class="newspaper" />
-  </view>
+  <text class="title1">Suivez toute</text>
+  <text class="title2">l’actualité Camerounaise</text>
+  <text class="title1">en un seul geste</text>
+  <text class="title3"> Mobile News centralise vos sources d'information dans une interface simple, et intuitive. </text>
+  <view class="spacer"/>
+  <view bindtap="navigateToChoosePlanScreen" class="button">Commencer la lecture</view>
 </view>

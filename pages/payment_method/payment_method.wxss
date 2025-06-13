@@ -1,0 +1,55 @@
+.container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 14px 20px 14px;
+    box-sizing: border-box;
+    /* background-color: #f8f8f8; */
+}
+
+.image {
+  height: 172.27px;
+  width: 130px;
+  border-radius: 20px;
+  background-color: #CECECE;
+}
+
+.text1 {
+  margin-top: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.text2 {
+  margin-top: 5px;
+  font-size: 12px;
+  text-align: center;
+  width: 250px;
+}
+
+.paymentMethod {
+  width: 90%;
+  margin-top: 12px;
+  padding: 18px 14px;
+  background-color: #fcfcfc;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1.5px solid;
+  border-color: #f3f3f3;
+}
+
+.paymentMethodRow {
+  display: flex;
+  align-items: center;
+}
+
+.paymentMethodTitle {
+  margin-left: 8px;
+  font-size: 12px;
+  font-weight: bold;
+}

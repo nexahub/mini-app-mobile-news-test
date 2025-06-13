@@ -1,0 +1,34 @@
+<view class="container">
+    <view class="image" />
+    <text class="text1">Choisis un plan pour commencer</text>
+    <text class="text2">Découvre notre incroyable sélection de journaux pour te tenir informé de l'actualité camerounaise !</text>
+
+    <view bindtap="navigateToNewsInfinityScreen" class="plan">
+        <view class="planColumn" >
+            <text class="planTitle">News Infinity</text>
+            <text class="planSubTitle">Tous les journaux</text>
+        </view>
+        >
+    </view>
+    <view bindtap="navigateToNewsPremiumScreen" class="plan">
+        <view class="planColumn" >
+            <text class="planTitle">News Premium</text>
+            <text class="planSubTitle">Sélection prestige</text>
+        </view>
+        >
+    </view>
+    <view bindtap="navigateToNewsStartScreen" class="plan">
+        <view class="planColumn" >
+            <text class="planTitle">News Start</text>
+            <text class="planSubTitle">Journaux découverte</text>
+        </view>
+        >
+    </view>
+    <view bindtap="navigateToNewsFlexScreen" class="plan">
+        <view class="planColumn" >
+            <text class="planTitle">News Flex</text>
+            <text class="planSubTitle">Construis ton abonnement</text>
+        </view>
+        >
+    </view>
+</view>

@@ -1,0 +1,35 @@
+<view class="container">
+    <text class="title">Choisis un forfait</text>
+    <text class="subTitle">Accèdes à Cameroon Tribune, Business Today, Le Messager et d'autres journaux populaires.</text>
+
+    <view class="package">
+        <view class="packageLeadingRow">
+            >
+            <text class="packageRowLeadingText">Pass Jour</text>
+        </view>
+        <view class="packageTrailingContainer">
+            <text class="packageTrailingContainerText1">1000</text>
+            <text class="packageTrailingContainerText2"> XAF</text>
+        </view>
+    </view>
+    <view class="package">
+        <view class="packageLeadingRow">
+            >
+            <text class="packageRowLeadingText">Pass Semaine</text>
+        </view>
+        <view class="packageTrailingContainer">
+            <text class="packageTrailingContainerText1">5000</text>
+            <text class="packageTrailingContainerText2"> XAF</text>
+        </view>
+    </view>
+    <view class="package">
+        <view class="packageLeadingRow">
+            >
+            <text class="packageRowLeadingText">Pass Mois</text>
+        </view>
+        <view class="packageTrailingContainer">
+            <text class="packageTrailingContainerText1">15000</text>
+            <text class="packageTrailingContainerText2"> XAF</text>
+        </view>
+    </view>
+</view>

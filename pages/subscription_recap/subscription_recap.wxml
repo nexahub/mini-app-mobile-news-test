@@ -1,0 +1,33 @@
+<view class="container">
+    <view class="recapContainer">
+        <text class="recapContainer1Title">Plan News Premium</text>
+        <text class="recapContainer1SubTitle">Sélection prestige</text>
+        <view class="bar" />
+        <text class="recapContainer1Title2">Description</text>
+        <text class="recapContainer1SubTitle">Accède à Cameroon Tribune, Cameroon Business Today, Le Messager et d'autres journaux populaires.</text>
+    </view>
+
+    <view class="recapContainer2">
+        <text class="recapContainer2SubTitle">Méthode de paiement</text>
+        <view class="balanceContainer">
+            <view class="banlanceContainerLeading">
+                <view class="banlanceContainerLeading1" />
+                <view class="banlanceContainerLeading2">
+                    <text class="recapContainer2SubTitle">Mon solde</text>
+                    <text class="recapContainer1SubTitle">000 U</text>
+                </view>
+            </view>
+            <text class="recapContainer2SubTitle">Changer</text>
+        </view>
+        <view class="bar" />
+        <text class="recapContainer1Title2">Souscription</text>
+        <text class="recapContainer3Title">Pass Mois</text>
+    </view>
+    <view class="recapContainer2Bottom">
+        <text class="recapContainer2SubTitle">Total à payer</text>
+        <text class="recapContainer1Title">15000 U</text>
+    </view>
+
+    <view class="spacer"/>
+    <view class="button">Confirmer</view>
+</view>

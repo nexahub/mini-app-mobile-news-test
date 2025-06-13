@@ -12,9 +12,9 @@ Page({
     canIUse: wx.canIUse('button.open-type.getUserInfo')
   },
   // event handler function
-  navigateToChoosePlanScreen: function () {
+  navigateToArticles: function () {
     wx.navigateTo({
-      url: '../choose_plan/choose_plan'
+      url: '../newspaper_articles/newspaper_articles'
     })
   },
   onLoad: function () {

@@ -1,0 +1,35 @@
+<view class="container">
+  <text class="title">Choisis un forfait</text>
+  <text class="subTitle">Accède à toute la sélection de journaux disponible sur Mobile News sans limitation</text>
+
+  <view bindtap="navigateToPaymentMethodScreen" class="package">
+    <view class="packageLeadingRow">
+      >
+      <text class="packageRowLeadingText">Pass Jour</text>
+    </view>
+    <view class="packageTrailingContainer">
+      <text class="packageTrailingContainerText1">1500</text>
+      <text class="packageTrailingContainerText2"> XAF</text>
+    </view>
+  </view>
+  <view bindtap="navigateToPaymentMethodScreen" class="package">
+    <view class="packageLeadingRow">
+      >
+      <text class="packageRowLeadingText">Pass Semaine</text>
+    </view>
+    <view class="packageTrailingContainer">
+      <text class="packageTrailingContainerText1">8000</text>
+      <text class="packageTrailingContainerText2"> XAF</text>
+    </view>
+  </view>
+  <view bindtap="navigateToPaymentMethodScreen" class="package">
+    <view class="packageLeadingRow">
+      >
+      <text class="packageRowLeadingText">Pass Mois</text>
+    </view>
+    <view class="packageTrailingContainer">
+      <text class="packageTrailingContainerText1">25000</text>
+      <text class="packageTrailingContainerText2"> XAF</text>
+    </view>
+  </view>
+</view>

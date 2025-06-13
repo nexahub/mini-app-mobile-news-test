@@ -1,0 +1,20 @@
+<view class="container">
+    <view class="image" />
+    <text class="text1">Choisis une méthode de paiement</text>
+    <text class="text2">Choisis ton mode de paiement et profite à fond de ton abonnement à Mobile News !</text>
+
+    <view bindtap="navigateToSubscriptionRecapScreen" class="paymentMethod">
+        <view class="paymentMethodRow">
+            >
+            <text class="paymentMethodTitle">Mon solde</text>
+        </view>
+        >
+    </view>
+    <view bindtap="navigateToSubscriptionRecapScreen" class="paymentMethod">
+        <view class="paymentMethodRow">
+            >
+            <text class="paymentMethodTitle">Orange Money</text>
+        </view>
+        >
+    </view>
+</view>

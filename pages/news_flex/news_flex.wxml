@@ -1,0 +1,31 @@
+<view class="container">
+    <text class="title">Choisis un plan</text>
+    <text class="subTitle">Construit ton propre abonnement en choisissant tes journaux</text>
+
+    <view class="package">
+        <view class="packageLeadingColumn">
+            <text class="packageRowLeadingText1">04 Journaux</text>
+            <text class="packageRowLeadingText2">New Start</text>
+
+            <text class="packageRowLeadingText1">02 Journaux</text>
+            <text class="packageRowLeadingText2">New Premium</text>
+        </view>
+        <view class="packageTrailingContainer">
+            <text class="packageTrailingContainerText1">350</text>
+            <text class="packageTrailingContainerText2"> XAF</text>
+        </view>
+    </view>
+    <view class="package">
+        <view class="packageLeadingColumn">
+            <text class="packageRowLeadingText1">06 Journaux</text>
+            <text class="packageRowLeadingText2">New Start</text>
+
+            <text class="packageRowLeadingText1">04 Journaux</text>
+            <text class="packageRowLeadingText2">New Premium</text>
+        </view>
+        <view class="packageTrailingContainer">
+            <text class="packageTrailingContainerText1">500</text>
+            <text class="packageTrailingContainerText2"> XAF</text>
+        </view>
+    </view>
+</view>
