@@ -89,7 +89,8 @@
     flex-direction: column;
 }
 
-.recapContainer2Bottom {
+.amountRecapContainer {
+    margin-bottom: 80px;
     padding: 15.5px 14px;
     display: flex;
     align-items: center;

@@ -23,11 +23,10 @@
         <text class="recapContainer1Title2">Souscription</text>
         <text class="recapContainer3Title">Pass Mois</text>
     </view>
-    <view class="recapContainer2Bottom">
+    <view class="amountRecapContainer">
         <text class="recapContainer2SubTitle">Total à payer</text>
         <text class="recapContainer1Title">15000 U</text>
     </view>
 
-    <view class="spacer"/>
-    <view class="button">Confirmer</view>
+    <view bindtap="navigateToPaymentStatusScreen" class="button">Confirmer</view>
 </view>

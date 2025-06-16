@@ -1,6 +1,7 @@
 {
     "pages": [
         "pages/index/index",
+        "pages/newspapers/newspapers",
         "pages/newspaper_articles/newspaper_articles",
         "pages/article_detail/article_detail",
         "pages/choose_plan/choose_plan",
@@ -9,7 +10,9 @@
         "pages/news_start/news_start",
         "pages/news_flex/news_flex",
         "pages/payment_method/payment_method",
-        "pages/subscription_recap/subscription_recap"
+        "pages/subscription_recap/subscription_recap",
+        "pages/payment_status/payment_status",
+        "pages/choose_newspapers/choose_newspapers"
     ],
     "style": "v2",
     "window": {

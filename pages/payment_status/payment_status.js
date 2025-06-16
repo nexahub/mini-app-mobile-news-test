@@ -5,9 +5,9 @@ Page({
   data: {},
   onLoad: function () {},
   // event handler function
-  navigateToChooseNewspapersScreen: function () {
+  navigateToNewspapersScreen: function () {
     wx.navigateTo({
-      url: '../choose_newspapers/choose_newspapers'
+      url: '../newspapers/newspapers'
     })
   },
 })

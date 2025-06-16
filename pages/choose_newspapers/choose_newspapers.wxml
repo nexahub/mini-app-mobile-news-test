@@ -1,0 +1,21 @@
+<view class="container">
+    <text class="title">Journaux News Start</text>
+    <text class="subTitle">Choisis 04 journaux News Start pour constituer ton abonnement</text>
+
+    <view class="newspapersPart">
+        <view class="newspaperCard">La Nouvelle Horizon</view>
+        <view class="newspaperCard">Info Matin</view>
+        <view class="newspaperCard">Défis Actuels</view>
+        <view class="newspaperCard">The Guardian Post</view>
+        <view class="newspaperCard">L’Anecdote</view>
+        <view class="newspaperCard">Business Insider</view>
+        <view class="newspaperCard">L’Action</view>
+        <view class="newspaperCard">Lignes d’Horizon</view>
+        <view class="newspaperCard">Terre Promise</view>
+        <view class="newspaperCard">L’Actu-Sport</view>
+        <view class="newspaperCard">Kalara</view>
+        <view class="newspaperCard">The Post Repère</view>
+
+    </view>
+    <view bindtap="navigateToPaymentMethodScreen" class="button">Confirmer</view>
+</view>

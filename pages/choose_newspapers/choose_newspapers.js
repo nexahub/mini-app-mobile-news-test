@@ -4,10 +4,9 @@ const util = require('../../utils/util.js')
 Page({
   data: {},
   onLoad: function () {},
-  // event handler function
-  navigateToChooseNewspapersScreen: function () {
+  navigateToPaymentMethodScreen: function () {
     wx.navigateTo({
-      url: '../choose_newspapers/choose_newspapers'
+      url: '../payment_method/payment_method'
     })
   },
 })

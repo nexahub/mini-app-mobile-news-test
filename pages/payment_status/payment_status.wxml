@@ -1,0 +1,6 @@
+<view class="container">
+    <view class="image" />
+    <text class="text1">Paiement éffectué</text>
+    <text class="text2">Hoora ! Profite de ton abonnement pour consulter les dernières actualités.</text>
+    <view bindtap="navigateToNewspapersScreen" class="button">Commencer la lecture</view>
+</view>

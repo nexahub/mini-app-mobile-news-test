@@ -1,4 +1,5 @@
 {
-  "navigationBarTitleText": "Articles",
+  "navigationBarTitleText": "Journaux",
+  "navigationBarBackgroundColor": "#f8f8f8",
   "usingComponents": {}
 }
